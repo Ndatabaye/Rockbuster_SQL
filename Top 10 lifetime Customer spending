@@ -1,0 +1,10 @@
+SELECT A.customer_id,A.first_name,A.last_name,D.country,C.city, 
+SUM(E.amount) AS total_amount_paid
+FROM Customer A
+INNER JOIN address B ON A.address_id = B.address_id 
+INNER JOIN city C ON B.city_id = C.city_id
+INNER JOIN country D ON C.country_ID = D.country_id 
+INNER JOIN payment E ON A.customer_id=E.customer_id 
+GROUP BY city, country,first_name,last_name,A.customer_id
+ORDER BY SUM(E.amount) DESC
+LIMIT 10
