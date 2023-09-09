@@ -6,21 +6,21 @@ In collaboration with the Rockbuster Stealth’s business intelligence (BI) depa
 The data used for this project was provided to me in the Project Brief. It was comprised of the following:
 ## Fact Tables
 *Payment
-Rental
+*Rental
 ## Dimension Tables
 *Film_Actor
-Inventory
-Film_Category
-Customer
-Staff
-Store
-Actor
-Film
-Category
-Language
-Address
-City
-Country
+*Inventory
+*Film_Category
+*Customer
+*Staff
+*Store
+*Actor
+*Film
+*Category
+*Language
+*Address
+*City
+*Country
 # Source
 The source of the data was Rocbuster Stealth
 # Vizualizations
