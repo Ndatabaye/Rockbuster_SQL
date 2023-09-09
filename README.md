@@ -8,8 +8,8 @@ The data used for this project was provided to me in the Project Brief. It was c
 Payment
 Rental
 # Dimension Tables
-Film_Actor
-Inventory
+##Film_Actor
+##Inventory
 Film_Category
 Customer
 Staff
