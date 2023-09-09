@@ -24,4 +24,4 @@ Country
 # Source
 The source of the data was Rocbuster Stealth
 # Vizualizations
-I used tableau to create visualizations. Link to Tableau Storyboard:[Rockbuster Visualizations](https://public.tableau.com/app/profile/guillaume.ndatabaye/viz/Task3_10PresentingSQLResuts/Top10Countries).
+I used tableau to create visualizations. Link to Tableau Storyboard:[Rockbuster Visualizations][(https://public.tableau.com/app/profile/guillaume.ndatabaye/viz/Task3_10PresentingSQLResuts/Top10Countries)](Rockbuster Visualizations).
